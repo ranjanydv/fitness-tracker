@@ -1,0 +1,12 @@
+node_modules
+
+# Variables
+.env
+.env.local
+
+# IDE Conf Files
+.vscode
+.idea
+
+#Image Uploads Folder
+uploads/
