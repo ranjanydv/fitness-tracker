@@ -9,4 +9,4 @@ node_modules
 .idea
 
 #Image Uploads Folder
-uploads/
+uploads/*
